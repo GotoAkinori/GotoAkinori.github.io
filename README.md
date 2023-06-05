@@ -1,5 +1,6 @@
 # GotoAkinori.github.io
 Goto Akinori's web site
 
-[Loop puzzle](./loop_pazzle_web/html/index.html)
+Applications
+* [Slitherlink](https://gotoakinori.github.io/loop_pazzle_web/web/html/index.html)
 
